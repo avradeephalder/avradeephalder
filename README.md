@@ -194,13 +194,6 @@ AI system to detect and classify fake news articles
 
 ---
 
-## 🌟 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## 💭 Dev Quote
 
 <div align="center">
