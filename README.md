@@ -144,12 +144,12 @@ AI system to detect and classify fake news articles
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avradeephalder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avradeephalder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9" height="180em" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=avradeephalder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=avradeephalder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" height="180em" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avradeephalder&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=avradeephalder&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" />
 </div>
 
 <div align="center">
